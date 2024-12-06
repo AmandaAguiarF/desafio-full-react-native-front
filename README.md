@@ -3,6 +3,8 @@
 Projeto realizado para a disciplina de Coding Mobile e APS da Faculdade Senac.
 
 ### Tecnologias Utilizadas
-React Native
-JavaScript
-Expo
+- React Native
+- JavaScript
+- Expo
+- Recurso de Hardware
+- Consumo de API
